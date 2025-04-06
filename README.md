@@ -59,3 +59,4 @@ This project can be deployed to Netlify or Vercel for hosting.
 ## License
 
 MIT
+# cryptochart
