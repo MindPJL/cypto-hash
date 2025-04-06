@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "outputDirectory": ".next",
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "https://ezebdwwslffdmbjpmmga.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV6ZWJkd3dzbGZmZG1ianBtbWdhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDMzNjIyNjksImV4cCI6MjA1ODkzODI2OX0._XQliTqMCFCN00TG7opf0dI84nZYZt7hKYm6YSywEtA"
+  }
+}
